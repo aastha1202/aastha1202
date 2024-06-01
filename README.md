@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React Native<br>👯 I’m looking to collaborate on exciting open-source projects related to full-stack development.<br>⚡Fun fact: I love reading nonfiction books
+🌱 I’m currently learning React Native<br>👯 I’m looking to collaborate on exciting open-source projects related to full-stack development.<br>
 
 
 ## 🌐 Socials:
